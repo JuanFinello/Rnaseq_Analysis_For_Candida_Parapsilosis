@@ -9,7 +9,7 @@
 
 # Introduction: Data for this analysis was downloaded from SRA.
 # The experiment aims to study gene expression in Candida parapsilosis under two growth conditions: planktonic and biofilm. There are 6 fastq files, corresponding to 3 replicates of each treatment.
-# Accession numbers for the files: "SRR1278969" "SRR1278970" "SRR1278971" "SRR1278973" "SRR1278968".
+# Accession numbers for the files:"SRR1278968" "SRR1278969" "SRR1278970" "SRR1278971" "SRR1278973" "SRR1278972".
 
 
 #############################################
